@@ -1,0 +1,12 @@
+
+langchain
+requests
+beautifulsoup4
+transformers
+torch
+groq
+faiss-cpu
+streamlit
+fastapi
+uvicorn
+python-dotenv
